@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" modified="2023-08-09T10:15:25.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3QSTcRdt922tQWNDZYHs" version="21.6.5" type="github">
+  <diagram name="페이지-1" id="B4MePi_PxGgPZCZIqKph">
+    <mxGraphModel dx="2593" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-2" target="rBUCDgXHiGP98CzNsXHS-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-198.11400000000003" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-2" value="AdultMan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-452" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-3" target="rBUCDgXHiGP98CzNsXHS-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-3" value="CuteGirl" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-245.5" y="684" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-16" value="Sword" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="648.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-17" value="Bow" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="388" y="648.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-18" value="FishingRod" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="534" y="648.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-28" value="Hands" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="677" y="648.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-45" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.81;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="737" y="634.3199999999999" as="sourcePoint" />
+            <mxPoint x="556.7799999999997" y="550.0999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="737" y="590.3199999999999" />
+              <mxPoint x="556" y="590.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.184;entryY=1.013;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="302" y="633.3199999999999" as="sourcePoint" />
+            <mxPoint x="470.3919999999998" y="550.0999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="302" y="589.3199999999999" />
+              <mxPoint x="469" y="589.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-58" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.129;entryY=0.996;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="329" y="633.3199999999999" as="sourcePoint" />
+            <mxPoint x="496" y="549.3199999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="448" y="605.3199999999999" />
+              <mxPoint x="496" y="605.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-59" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.604;entryY=0.978;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="709" y="638.3199999999999" as="sourcePoint" />
+            <mxPoint x="528.3519999999999" y="547.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="594" y="606.3199999999999" />
+              <mxPoint x="528" y="606.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-60" value="&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Player" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-272" y="348" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-65" value="+ greeting()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-452" y="739" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" parent="1" source="rBUCDgXHiGP98CzNsXHS-66" target="rBUCDgXHiGP98CzNsXHS-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-66" value="+ setWeapon&lt;br style=&quot;font-size: 18px;&quot;&gt;+ getPlayerName()&lt;br style=&quot;font-size: 18px;&quot;&gt;+ setPlayerName()&lt;br&gt;+ playWeapon()&lt;br&gt;+&amp;nbsp;greeting()" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-272" y="460" width="173" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-68" value="+ greeting()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-245.5" y="744" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" edge="1" source="rBUCDgXHiGP98CzNsXHS-71" parent="1" target="rBUCDgXHiGP98CzNsXHS-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195.88599999999997" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-71" value="Baby" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="684" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-72" value="+ greeting()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-58" y="743" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-73" value="+ sound()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="707.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-74" value="+&amp;nbsp;sound()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="388" y="707.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-75" value="+&amp;nbsp;sound()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="534" y="707.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-76" value="+&amp;nbsp;sound()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="677" y="707.8199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-77" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;Weapon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="445" y="437" width="138" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-78" value="+&amp;nbsp;sound()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="445" y="497" width="138" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-80" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Weapon weapon&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ String playerName&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-272" y="408" width="173" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-83" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#FF2B0A;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-324.5" y="325" width="278" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-84" value="&lt;font data-font-src=&quot;https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/BinggraeMelona-Bold.woff&quot; style=&quot;font-size: 30px;&quot;&gt;Context&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF1100;fontSize=30;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" vertex="1" parent="1">
+          <mxGeometry x="-324.5" y="266" width="122" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-85" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#1207a6;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="208" y="615" width="629" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="rBUCDgXHiGP98CzNsXHS-86" value="&lt;font color=&quot;#0000ff&quot;&gt;알고리즘&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF1100;fontSize=30;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" vertex="1" parent="1">
+          <mxGeometry x="710" y="824" width="127" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
