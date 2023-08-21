@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T10:24:37.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MZXZ1thSY9GUkd9Dnl_d" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:28:39.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3m2Yv6DwXwCWJHrE-LPT" version="21.6.8" type="github">
   <diagram name="페이지-1" id="6sEnbddWq-lH5KxzZRfk">
-    <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,8 +181,8 @@
             <mxPoint x="80" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnDEQXpQz3MBq04x_4Gu-17" value="12. 구글 계정으로 클라이언트 로그인 완료." style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=9;fontColor=#00960A;" parent="1" vertex="1">
-          <mxGeometry x="80" y="774" width="200" height="30" as="geometry" />
+        <mxCell id="ZnDEQXpQz3MBq04x_4Gu-17" value="13. 구글 계정으로 클라이언트 로그인 완료." style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=9;fontColor=#00960A;" parent="1" vertex="1">
+          <mxGeometry x="80" y="773" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZnDEQXpQz3MBq04x_4Gu-20" value="������️" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="655" y="233" width="79" height="30" as="geometry" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="ZnDEQXpQz3MBq04x_4Gu-19" value="������" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="439" y="232.5" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O_PbFsgHcKQTPuVkzXew-1" value="12. 받은 사용자 리소스를 통해 회원 정보가&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;전혀 없을 경우 새로 회원 저장." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=9;fontColor=#00960A;" vertex="1" parent="1">
+          <mxGeometry x="282.15" y="762" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
