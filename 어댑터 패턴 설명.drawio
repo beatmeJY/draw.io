@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T12:11:12.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YF3S7Mk3Ja1rurR5BlEs" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T12:14:35.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8fJfNbmqIYybJ9DiPAh1" version="21.6.8" type="github">
   <diagram name="페이지-1" id="nCHfGsLQUfNJTehnOdW6">
     <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,47 +53,47 @@
           <mxGeometry x="403.5" y="467" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="172" y="811" width="120" height="60" as="geometry" />
+          <mxGeometry x="174" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-2" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Target" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="798" width="120" height="43" as="geometry" />
+          <mxGeometry x="422" y="756" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-3" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1007" width="120" height="39" as="geometry" />
+          <mxGeometry x="422" y="965" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719" y="1036" as="targetPoint" />
+            <mxPoint x="721" y="994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-4" value="Adaptee" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="645" y="1004" width="120" height="42" as="geometry" />
+          <mxGeometry x="647" y="962" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-5" value="request()" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="841" width="120" height="35" as="geometry" />
+          <mxGeometry x="422" y="799" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-7" value="request()" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1045" width="120" height="42" as="geometry" />
+          <mxGeometry x="422" y="1003" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-9" value="serviceRequest()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="645" y="1045" width="120" height="43" as="geometry" />
+          <mxGeometry x="647" y="1003" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-3" target="Rn_3dBbS1BHB-QaoX9bq-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="482" y="977" as="sourcePoint" />
-            <mxPoint x="575" y="997" as="targetPoint" />
+            <mxPoint x="484" y="935" as="sourcePoint" />
+            <mxPoint x="577" y="955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-7" target="Rn_3dBbS1BHB-QaoX9bq-9">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="415" y="997" as="sourcePoint" />
-            <mxPoint x="575" y="997" as="targetPoint" />
+            <mxPoint x="417" y="955" as="sourcePoint" />
+            <mxPoint x="577" y="955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-1" target="Rn_3dBbS1BHB-QaoX9bq-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="289" y="839" as="sourcePoint" />
-            <mxPoint x="394" y="838.5" as="targetPoint" />
+            <mxPoint x="291" y="797" as="sourcePoint" />
+            <mxPoint x="396" y="796.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn_3dBbS1BHB-QaoX9bq-16" value="client" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
@@ -149,6 +149,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-30" value="객체 어댑터&lt;br&gt;(Object Adapter)" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fontSize=20;fontFamily=yg-jalnan;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_four%401.2%2FJalnanOTF00.woff;" vertex="1" parent="1">
+          <mxGeometry x="383" y="687" width="198" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-32" value="클래스 어댑터&lt;br&gt;(Class Adapter)" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fontSize=20;fontFamily=yg-jalnan;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_four%401.2%2FJalnanOTF00.woff;" vertex="1" parent="1">
+          <mxGeometry x="390.5" y="1148" width="179" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
