@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T11:56:19.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="H8ydOD0NSSN_H1-P74xj" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T12:11:12.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YF3S7Mk3Ja1rurR5BlEs" version="21.6.8" type="github">
   <diagram name="페이지-1" id="nCHfGsLQUfNJTehnOdW6">
     <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,60 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="289" y="839" as="sourcePoint" />
             <mxPoint x="394" y="838.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-16" value="client" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-17" value="Target" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1228" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-18" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="551" y="1440" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-20" value="Adaptee" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1228" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-21" value="request()" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1271" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-22" value="request()" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="551" y="1479" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-23" value="serviceRequest()" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1269" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=BinggraeMelona-Bold;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_twelve%401.0%2FBinggraeMelona-Bold.woff;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-16" target="Rn_3dBbS1BHB-QaoX9bq-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="289" y="1269" as="sourcePoint" />
+            <mxPoint x="394" y="1268.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-28" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rn_3dBbS1BHB-QaoX9bq-18" target="Rn_3dBbS1BHB-QaoX9bq-23">
+          <mxGeometry x="0.0498" y="17" width="160" relative="1" as="geometry">
+            <mxPoint x="621" y="1450" as="sourcePoint" />
+            <mxPoint x="490" y="1316" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="611" y="1404" />
+              <mxPoint x="739" y="1404" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rn_3dBbS1BHB-QaoX9bq-29" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0038" y="-15" width="160" relative="1" as="geometry">
+            <mxPoint x="611" y="1437" as="sourcePoint" />
+            <mxPoint x="479" y="1306" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="611" y="1404" />
+              <mxPoint x="479" y="1404" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
