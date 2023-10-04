@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T08:08:41.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="37hYA2PCK3l57zcMk16j" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T09:23:47.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="N78h903HLg-pU2cjVDjs" version="21.6.9" type="github">
   <diagram name="페이지-1" id="X1zCKy3VXLixYVBnvFqf">
     <mxGraphModel dx="2474" dy="1110" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="692" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5f10U-PN7lcZyVbDlVB-35" value="Service의 대부분 로직은 Repository 연결용&lt;br style=&quot;font-size: 20px;&quot;&gt;Service는 Repository만 참조" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="A5f10U-PN7lcZyVbDlVB-35" value="Service는 대부분 Repository 연결용&lt;br style=&quot;font-size: 20px;&quot;&gt;Service는 자신의 Repository 하나만 참조" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-175.88" y="451" width="396" height="43" as="geometry" />
         </mxCell>
         <mxCell id="A5f10U-PN7lcZyVbDlVB-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=8 8;" edge="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="A5f10U-PN7lcZyVbDlVB-39" value="BizService" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-97.88" y="620" width="236" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="A5f10U-PN7lcZyVbDlVB-40" value="대부분의 비즈 로직이 여기서 개발&lt;br style=&quot;font-size: 20px;&quot;&gt;BizService끼리는 서로 참조 X (순환참조를 막기 위해)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="A5f10U-PN7lcZyVbDlVB-40" value="사실상 대부분의 로직은 여기에 개발&lt;br style=&quot;font-size: 20px;&quot;&gt;BizService끼리는 서로 참조 X (순환참조를 막기 위해)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-219" y="723" width="482.25" height="43" as="geometry" />
         </mxCell>
         <mxCell id="A5f10U-PN7lcZyVbDlVB-41" value="Controller" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
@@ -157,8 +157,8 @@
             <mxPoint x="1017" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5f10U-PN7lcZyVbDlVB-61" value="&lt;font color=&quot;#ff4a2e&quot; style=&quot;font-size: 19px;&quot;&gt;수많은 로직들이 공존&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="918" y="484" width="205" height="66" as="geometry" />
+        <mxCell id="A5f10U-PN7lcZyVbDlVB-61" value="&lt;font color=&quot;#ff4a2e&quot; style=&quot;font-size: 19px;&quot;&gt;수많은 로직들이 의존되어 있음&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="895" y="483" width="272" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
